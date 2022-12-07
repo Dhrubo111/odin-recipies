@@ -1,0 +1,22 @@
+h1,div,h2{
+    text-align: center
+}
+
+body{
+    background-color: #F7A76C;
+}
+
+h1{
+    color: aliceblue;
+    font-size:70px
+}
+
+h2{
+    color: aliceblue;
+    font-size: 40px;
+}
+
+ul,ol{
+    color: black;
+    font-size: larger;
+}
